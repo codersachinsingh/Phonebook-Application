@@ -1,0 +1,1 @@
+g++ phonebook.cpp classes\\userinterface.cpp classes\\contactsmanager.cpp classes\\contact.cpp classes\\headersandlines.cpp classes\\contactdatainput.cpp -o phonebook.exe
